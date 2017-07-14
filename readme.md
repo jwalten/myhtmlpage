@@ -1,2 +1,2 @@
 Replicating this page
-<img src="html.png">
+<img src="img/html.png">
