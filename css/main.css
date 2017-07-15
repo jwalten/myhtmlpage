@@ -1,0 +1,22 @@
+/*body, header, h1, p, ul {
+  margin: 0;
+  padding: 0;
+}*/
+
+body {
+  margin-top: 0;
+  font-size: .95em;
+}
+
+#indent {
+  margin-left: 40px;
+}
+
+h3 {
+  color: red;
+}
+
+#border {
+  border-style: double;
+  border-radius: 20px;
+  padding: 10px;
