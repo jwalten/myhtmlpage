@@ -1,10 +1,7 @@
 body {
-  margin-top: 0;
   font-size: .95em;
-}
-
-#indent {
-  margin-left: 40px;
+  max-width: 600px;
+  margin: 70px auto;
 }
 
 h3 {
@@ -46,3 +43,6 @@ tr:nth-child(even) {
   border-style: double;
   border-radius: 20px;
   padding: 10px;
+  text-align: center;
+  border-width: 6px;
+}
